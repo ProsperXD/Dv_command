@@ -20,3 +20,5 @@ end
 function notification(text)
     TriggerEvent('esx:showNotification', text)
 end
+
+print("^1 Prosper made this Script C: -Prosper#0725")
